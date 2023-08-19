@@ -1,4 +1,4 @@
-itterraform {
+terraform {
   cloud {
     organization = "t102test"
     hostname     = "app.terraform.io" # default
