@@ -1,6 +1,6 @@
-terraform {
+itterraform {
   cloud {
-    organization = "skwwnl"
+    organization = "t102test"
     hostname     = "app.terraform.io" # default
 
     workspaces {
